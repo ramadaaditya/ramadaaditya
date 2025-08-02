@@ -1,17 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramadaaditya.ramadaaditya"/><br>
+<h1 align="center">Hi 👋, I'm Ramada Aditya</h1>
+<h3 align="center">A passionate Android mobile developer from Indonesia</h3>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Sup Bruh!+👋"/>
-</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramada-aditya-277b44257/) <br>
+![Ramadaaditya's Stats](https://github-readme-stats.vercel.app/api?username=Ramadaaditya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Ramadaaditya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramadaaditya&theme=tokyonight&hide_border=true)
+![Ramadaaditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadaaditya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-### Github Statistic
 
-<p align="left">
-<a href="https://github.com/ramadaaditya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramadaaditya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadaaditya&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
