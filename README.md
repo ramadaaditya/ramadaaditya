@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramada Aditya</h1>
-<h3 align="center">A passionate Android mobile developer from Indonesia</h3>
+<h3 align="center">Madang is number one</h3>
 
 
 ![Ramadaaditya's Stats](https://github-readme-stats.vercel.app/api?username=Ramadaaditya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
